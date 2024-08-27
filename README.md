@@ -1,5 +1,6 @@
 # Tone
 Provides Twitter users a tone breakdown of their tweets through data visualizations to bring awareness to online hate speech and reduce online harm.
+<img width="1396" alt="Screenshot 2024-08-27 at 1 47 42 PM" src="https://github.com/user-attachments/assets/832ef2fb-8bb5-4984-876a-3eb4cfcee885">
 
 An increasing trend in personal attacks on Twitter has created an environment on social media where others are targeted for their race, sexual orientation, disabilities, and much more. Platforms like Twitter try to identify potentially offensive content but struggle to distinguish between the types of personal attacks. 
 
@@ -10,4 +11,3 @@ Our goal through this product is to promote empathy among Twitter users to reduc
 Links:
 - Project Tone Website: https://tonecapstone.weebly.com/
 - Tone Representation Tool: https://elias326-tone-website-streamlit-test-qzauy7.streamlitapp.com/
-  <img width="1396" alt="Screenshot 2024-08-27 at 1 47 42 PM" src="https://github.com/user-attachments/assets/832ef2fb-8bb5-4984-876a-3eb4cfcee885">
